@@ -9,4 +9,8 @@ How to launch Proto:
 
 1. Run protoServer.py, it will begin looking for a connection.
 2. Run protoClient.py, it will connect to the server that was run in step 1.
+
+NOTE: Make sure that the 'PORT' number on line 8 of protoServer.py is the exact same as the 'PORT' number on line 11 of protoClient.py
+If there are any errors, try adding +1 to each 'PORT' number. 
+
 3. Register and log in to begin!
