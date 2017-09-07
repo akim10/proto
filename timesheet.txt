@@ -1,0 +1,17 @@
+April 11 - 4 hours - creating baseline drag and drop feature
+April 12 - 3 hours - got sockets to work for the code I had yesterday
+April 13 - 4 hours - began changing code to work for general UI elements (as opposed to a green block)
+April 14 - 5 hours - working on dragging/dropping + general basic UI
+April 15 - 5 hours - working on editing the elements once placed on the screen
+April 16 - 5 hours - same as yesterday, tried to fix some of the many bugs + created element function setting UI
+April 17 - 3 hours - very basic screen linking done for button, screen select implemented
+April 18 - 1.5 hours - started on text box functionality, finished screen linking
+April 19 - 3.5 hours - finished textbox + button text editing (still pretty buggy though)
+April 20 - 3 hours - finished slider functionality (not linked to anything though), some progress updating sockets, currently not working however, finished color select
+April 21 - 2 hours - tried to update sockets but didn’t get anywhere
+April 22 - 5 hours - some good progress updating sockets, still not working though
+April 23 - 4 hours - got basic sockets to work, a little buggy 
+April 24 - 5 hours - finished sockets, moving on to bug fixing/wrapping up
+April 25 - 5 hours - work on UI and bug fixing
+April 26 - 6 hours - working on UI and bug fixing
+April 27 - 7 hours - finishing up bug fixing, style, and video
