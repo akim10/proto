@@ -1,5 +1,5 @@
 # proto
-Proto: 15-112 Term Project
+Basic design prototyping tool built with Python and tkinter.
 
 This was the final project for 15-112: Fundamentals of Programming and Computer Science. 
 I created a collaborative protyping application with Python's built-in graphical library, tkinter.
